@@ -95,8 +95,8 @@ I deliver practical solutions with quick turnarounds and clear communication. Le
 ### 📊 My GitHub Vitals & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&rank_icon=github&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&text_color=0077B5&icon_color=0077B5&title_color=43B02A" alt="Mathijs's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&langs_count=6&hide_border=true&bg_color=00000000&text_color=0077B5&icon_color=0077B5&title_color=43B02A" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mathdee&show_icons=true&theme=transparent&rank_icon=github&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&text_color=0077B5&icon_color=0077B5&title_color=43B02A" alt="Mathijs's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathdee&layout=compact&theme=transparent&langs_count=6&hide_border=true&bg_color=00000000&text_color=0077B5&icon_color=0077B5&title_color=43B02A" alt="Top Languages" width="48%"/>
   <br><br>
   </p>
 
@@ -112,13 +112,12 @@ I deliver practical solutions with quick turnarounds and clear communication. Le
       <img src="https://img.shields.io/badge/Drop_Me_An_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
     &nbsp;&nbsp;
-    <a href="YOUR_LINKEDIN_PROFILE_URL" style="text-decoration:none;">
+    <a href="https://www.linkedin.com/in/mathijs-deelen-5b0b45248/" style="text-decoration:none;">
       <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     &nbsp;&nbsp;
-    <a href="YOUR_YOUTUBE_CHANNEL_URL_HERE" style="text-decoration:none;">
+    <a href="https://www.youtube.com/@yabuli4886" style="text-decoration:none;">
       <img src="https://img.shields.io/badge/My_3D_Art_&_Animations!-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
     </a>
   </p>
-  <p>📍 Hoboken, NJ | Animator turned Impact Coder | Surfer & Maker</p>
 </div>
