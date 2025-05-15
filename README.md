@@ -20,7 +20,7 @@
 <div align="center">
   <h3>🎨 My Journey: From Pixels to Purposeful Code 💻</h3>
   <p>
-    Started with 2D/3D animation (Blender, <a href="YOUR_YOUTUBE_CHANNEL_URL_HERE" target="_blank">YouTube</a>) ➡️ Fell for coding building games in Unity ➡️ Now obsessed with creating solutions that truly <strong>impact people</strong>.
+    Started with 2D/3D animation (Blender, <a href="https://www.youtube.com/@yabuli4886" target="_blank">YouTube</a>) ➡️ Fell for coding building games in Unity ➡️ Now obsessed with creating solutions that truly <strong>impact people</strong>.
   </p>
 </div>
 
