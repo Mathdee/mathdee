@@ -1,111 +1,111 @@
 <div align="center">
-  <img src="[YOUR_ULTRA_CREATIVE_BANNER_URL_HERE]" alt="Mathijs Deelen - Creative Technologist & Impactful Coder" width="100%"/>
+  <img src="[YOUR_SIGNATURE_BANNER_URL_HERE]" alt="Mathijs Deelen - From Animation to Impactful Code" width="100%"/>
   <br>
-  <a href="[YOUR_LINK_TO_A_PROJECT_YOU_ARE_MOST_PROUD_OF_OR_YOUR_PORTFOLIO_SITE]">
-    <img src="[YOUR_PROFILE_PICTURE_URL_HERE]" alt="Mathijs Deelen" width="200" style="border-radius:50%; border: 6px solid #0077B5; box-shadow: 0px 0px 20px #0077B5;"/>
+  <a href="[LINK_TO_YOUR_BEST_PROJECT_OR_PORTFOLIO_SITE]">
+    <img src="[YOUR_PROFILE_PICTURE_URL_HERE]" alt="Mathijs Deelen" width="180" style="border-radius:50%; border: 6px solid #43B02A; box-shadow: 0px 0px 25px #43B02A;"/> 
     </a>
 
-  <h1>Hey, I'm Mathijs! <img src="https://media.giphy.com/media/mSmoothieSmoothiemLpbBw8/giphy.gif" width="40"> </h1>
+  <h1>Hey, I'm Mathijs! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7q/giphy.gif" width="35"></h1>
   <p>
-    A <strong>Computer Science Whiz @ Stevens Institute of Technology</strong> with a heart for <strong>animation, a mind for code, and a drive to make a real impact.</strong>
+    🚀 <strong>CS Student @ Stevens Tech</strong> | Animator ➡️ 3D Artist ➡️ Unity Dev ➡️ <strong>Impactful Coder!</strong>
     <br>
-    My adventure started with 2D sketches, evolved into 3D worlds in Blender (yep, I'm that guy on <a href="YOUR_YOUTUBE_CHANNEL_URL_HERE" target="_blank">YouTube</a>!), and then BAM! 💥 I fell for coding in Unity, building games.
+    Driven to craft <strong>meaningful software</strong> with Python, JavaScript & AI that makes a difference.
     <br>
-    Now, I channel that creative spark into crafting <strong>meaningful software</strong> – especially with Python, JavaScript, and AI.
-    <br>
-    <em>(Psst... I once built an automation script that nuked 99% of a tedious manual data collection task. Efficiency is my middle name!)</em>
+    <em>(Fun fact: My automation script cut 99% of manual data collection for a client! 💡)</em>
   </p>
 </div>
 
 ---
 
-### 🚀 My Current Playground: Ideas Taking Flight!
-
-I'm all about building things that are fun, useful, and maybe even a little bit revolutionary.
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <div style="flex: 1; min-width: 300px; margin: 10px; padding: 15px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-    <h3 align="center">🤖 SelfView - AI Interview Coach</h3>
-    <p align="center"><em>Leveling up dev interview prep!</em></p>
-    <p>Building a platform for realistic interview simulations. Think coding workspaces, audio analysis, and soon, real-time AI feedback to help you nail that dream job. My animation roots help in designing an intuitive UX!</p>
-    <p align="center"><code>React</code> <code>TypeScript</code> <code>Python</code> <code>TensorFlow</code> <code>OpenAI API</code></p>
-    </div>
-  <div style="flex: 1; min-width: 300px; margin: 10px; padding: 15px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-    <h3 align="center">🎮 CodeCobra - Learn DS&A, The Fun Way!</h3>
-    <p align="center"><em>Who said learning can't be a game?</em></p>
-    <p>A gamified React.js app where you learn Data Structures & Algorithms by playing an interactive Snake game, complete with MCQs and leaderboards. Firebase handles the backend magic.</p>
-    <p align="center"><code>React.js</code> <code>JavaScript</code> <code>HTML Canvas</code> <code>Firebase</code></p>
-    </div>
-  <div style="flex: 1; min-width: 300px; margin: 10px; padding: 15px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-    <h3 align="center">🌳 Arbortag - My Vision for a Greener Tomorrow!</h3>
-    <p align="center"><em>Using tech to whisper the stories of trees.</em></p>
-    <p>This is my passion project brewing: a way to scan trees and instantly access rich information, replacing static plaques. Imagine using your phone to genuinely connect with nature! Always brainstorming this one.</p>
-    <p align="center"><code>Concept</code> <code>AR/Mobile Tech</code> <code>AI/CV</code> <code>Data Visualization</code></p>
-    </div>
+<div align="center">
+  <h3>🎨 My Journey: From Pixels to Purposeful Code 💻</h3>
+  <p>
+    Started with 2D/3D animation (Blender, <a href="YOUR_YOUTUBE_CHANNEL_URL_HERE" target="_blank">YouTube</a>) ➡️ Fell for coding building games in Unity ➡️ Now obsessed with creating solutions that truly <strong>impact people</strong>.
+  </p>
 </div>
 
 ---
 
-### 🛠️ My Tech Palette & Tools of Creation
+### 🔥 Current Creations & Big Dreams ✨
 
-Here's what I use to bring ideas to life:
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="[ICON_OR_SMALL_GIF_FOR_SELFVIEW]" alt="SelfView Icon" width="60"><br>
+      <strong>SelfView</strong><br>
+      <small>AI-powered interview practice.<br><code>React</code> <code>TS</code> <code>Python</code> <code>OpenAI</code></small><br>
+      </td>
+    <td width="33%" align="center">
+      <img src="[ICON_OR_SMALL_GIF_FOR_CODECOBRA]" alt="CodeCobra Icon" width="60"><br>
+      <strong>CodeCobra</strong><br>
+      <small>Gamified DS&A learning.<br><code>React</code> <code>JS Canvas</code> <code>Firebase</code></small><br>
+      </td>
+    <td width="33%" align="center">
+      <img src="[ICON_OR_SMALL_GIF_FOR_ARBORTAG]" alt="Arbortag Icon" width="60"><br>
+      <strong>Arbortag (Vision!)</strong><br>
+      <small>Scan trees, connect with nature via phone. Let's make it happen!</small><br>
+      </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ My Tech Magic Wand
 
 <p align="center">
-  ✨ <strong>Core Languages:</strong> Python, JavaScript, TypeScript, Java, C++, OCaml <br>
-  🔮 <strong>Frameworks & APIs:</strong> React.js, Node.js, TensorFlow, OpenAI API, OpenCV, Selenium, Flask, Django <br>
-  🎨 <strong>Creative & Dev Tools:</strong> Blender, Unity, Git, Firebase, Docker, VS Code, GCP, Expo <br>
-  📊 <strong>Data Sorcery:</strong> Pandas, NumPy, Matplotlib, Scikit-learn
-  <br><br>
-  <img src="https://img.shields.io/badge/Python- estrelas?style=for-the-badge&logo=python&logoColor=white&color=3776AB" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript- Poderoso!style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React- Mágico!style=for-the-badge&logo=react&logoColor=61DAFB&color=20232A" alt="React"/>
-  <img src="https://img.shields.io/badge/AI/ML- Futuro!style=for-the-badge&logo=tensorflow&logoColor=white&color=FF6F00" alt="AI/ML"/>
-  <img src="https://img.shields.io/badge/Blender- Criativo!style=for-the-badge&logo=blender&logoColor=white&color=F5792A" alt="Blender"/>
+  <img src="https://img.shields.io/badge/Python-SUPERCHARGED-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-DYNAMIC-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-INTERACTIVE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/AI/ML-INTELLIGENT-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML"/>
+  <img src="https://img.shields.io/badge/Automation-EFFICIENT-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Automation"/>
+  <img src="https://img.shields.io/badge/Blender-VISUAL-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+  <img src="https://img.shields.io/badge/Unity-IMMERSIVE-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <br>
+  <details>
+    <summary>Expand for Full Toolkit</summary>
+    <p align="center">
+      <code>TypeScript</code> <code>Node.js</code> <code>OpenAI API</code> <code>OpenCV</code> <code>Firebase</code> <code>Docker</code> <code>GCP</code> <code>Java</code> <code>C++</code> <code>OCaml</code> <code>Git</code> <code>VS Code</code> <code>Pandas</code> <code>NumPy</code> <code>Scikit-learn</code> <code>Flask</code> <code>Django</code>
+    </p>
+  </details>
 </p>
 
 ---
 
-### 🌱 Let's Collaborate on Something Meaningful!
+### 🌱 Got a Spark? Let's Build Something Epic!
 
-Got a spark of an idea or a challenge that needs a creative coder's touch? I'm always excited to explore **short-term micro-projects** where I can dive in, make an impact, and build something cool. I especially love projects involving:
-
-* **Smart Automation & Web Scraping:** Let's make those tedious tasks disappear!
-* **Engaging Web Experiences:** Quick JS/React enhancements, bug squashing, or bringing a small feature to life.
-* **AI Brainstorms & Prototypes:** From text summarizers to curious little bots.
-* **Adding that Missing Piece:** Small full-stack features to complete your puzzle.
-* **Untangling Data & Finding Stories:** Basic data analysis and visualization.
-* **Code Whisperer:** Debugging and optimizing existing codebases.
-* **Giving Sight to Software:** Simple computer vision tasks with OpenCV.
-
-I believe in clear communication, delivering functional solutions quickly, and bringing a fresh, energetic perspective. If you think my blend of creativity and technical skill could help, let's connect!
+Love tackling cool challenges, especially **impactful micro-projects**. If you need a creative coder for:
+<p align="center">
+Web Automation & Scraping 🤖 | JS/React Quick Wins ✨ | Small AI Prototypes 💡 <br>
+Full-Stack Micro-Features 🧩 | Data Insights & Viz 📊 | Code Debugging 🧐 | Basic CV Tasks 🖼️
+</p>
+I deliver practical solutions with quick turnarounds and clear communication. Let's make magic happen!
 
 ---
 
-### ✨ When I'm Not Coding...
-
-You can find me:
-* 🏄‍♂️ **Chasing Waves:** Surfing is my meditation – helps me clear my head and ride the flow.
-* 🛠️ **Building (the tangible kind!):** From chicken coops to treehouses, I love making things with my hands.
-* 🏀 Getting active with friends, usually playing some kind of sport.
-
-My current learning adventures are steered by Python, with a keen eye on **Cloud Computing, Machine Learning, and AI**. Always hungry for a new challenge!
+<div align="center">
+  <p>
+    🏄‍♂️ When I'm not coding, I'm surfing waves, 🛠️ building IRL (chicken coops, treehouses!), or playing sports with friends. 🏀
+    <br>
+    🧠 Always learning: Python is my core, with eyes on Cloud, ML & AI! Open to any adventure.
+  </p>
+</div>
 
 ---
 
-### 📊 My GitHub Pulse
+### 📊 My GitHub Vitals & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=merko&rank_icon=github&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000" alt="Mathijs's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=merko&langs_count=8&hide_border=true&bg_color=00000000" alt="Top Languages" width="48%"/>
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&rank_icon=github&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&text_color=0077B5&icon_color=0077B5&title_color=43B02A" alt="Mathijs's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&langs_count=6&hide_border=true&bg_color=00000000&text_color=0077B5&icon_color=0077B5&title_color=43B02A" alt="Top Languages" width="48%"/>
+  <br><br>
   </p>
 
 ---
 
 <div align="center">
-  <h2>📫 Let's Make Something Awesome Together!</h2>
+  <h2>🤙 Let's Connect & Create!</h2>
   <p>
-    Whether it's about code, creativity, your Arbortag ideas, or the perfect wave – I'm all ears!
+    Got an idea, a challenge, or just want to talk tech, animation, or the perfect wave?
   </p>
   <p>
     <a href="mailto:deelen.mathijs@gmail.com" style="text-decoration:none;">
@@ -117,8 +117,8 @@ My current learning adventures are steered by Python, with a keen eye on **Cloud
     </a>
     &nbsp;&nbsp;
     <a href="YOUR_YOUTUBE_CHANNEL_URL_HERE" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/See_My_3D_Work!-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+      <img src="https://img.shields.io/badge/My_3D_Art_&_Animations!-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
     </a>
   </p>
-  <p>📍 Hoboken, NJ – Always ready for the next creative adventure!</p>
+  <p>📍 Hoboken, NJ | Animator turned Impact Coder | Surfer & Maker</p>
 </div>
