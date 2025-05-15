@@ -41,7 +41,7 @@
       <small>Gamified DS&A learning.<br><code>React</code> <code>JS Canvas</code> <code>Firebase</code></small><br>
       </td>
     <td width="33%" align="center">
-      <img src="[ICON_OR_SMALL_GIF_FOR_ARBORTAG]" alt="Arbortag Icon" width="60"><br>
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fgreens-tree-eyebrow-eyebrow-raise-i-dont-care-gif-14467282&psig=AOvVaw18Jr-w4zItJ9EY-WxYGK8Q&ust=1747364231486000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDz-Jm9pI0DFQAAAAAdAAAAABAL" alt="Arbortag Icon" width="60"><br>
       <strong>Arbortag (Vision!)</strong><br>
       <small>Scan trees, connect with nature via phone. Let's make it happen!</small><br>
       </td>
