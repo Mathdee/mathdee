@@ -107,8 +107,8 @@ I believe in lifelong learning, so I'm always ready to jump on any opportunity t
 ### 📊 My GitHub Snapshot
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&rank_icon=github&count_private=true&include_all_commits=true" alt="Mathijs's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mathdee&show_icons=true&theme=radical&rank_icon=github&count_private=true&include_all_commits=true" alt="Mathijs's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathdee&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
   <br/>
   <br/>
   </p>
