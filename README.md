@@ -1,106 +1,124 @@
 <div align="center">
-  <img src="[PLACEHOLDER_FOR_AMAZING_BANNER_GIF_OR_ANIMATED_SVG]" alt="Mathijs Deelen - Creative Coder & Builder" width="900"/>
+  <img src="[YOUR_ULTRA_CREATIVE_BANNER_URL_HERE]" alt="Mathijs Deelen - Creative Technologist & Impactful Coder" width="100%"/>
   <br>
-  <img src="[YOUR_PROFILE_PICTURE_URL_HERE]" alt="Mathijs Deelen" width="180" style="border-radius:50%; border: 5px solid #61DAFB;"/> 
-  <h1>Hey, I'm Mathijs! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7q/giphy.gif" width="35"></h1>
-  <p>
-    🚀 <strong>CS Student @ Stevens Tech</strong> | Animator ➡️ 3D Artist ➡️ Unity Dev ➡️ Impactful Coder!
-    <br>
-    I craft meaningful code with Python, JavaScript & AI – and love building things, digital or physical.
-    <br>
-    💡 Slashed 99% of manual data work with one automation script! | 🌊 Surfer & Maker
-  </p>
+  <a href="[YOUR_LINK_TO_A_PROJECT_YOU_ARE_MOST_PROUD_OF_OR_YOUR_PORTFOLIO_SITE]">
+    <img src="[YOUR_PROFILE_PICTURE_URL_HERE]" alt="Mathijs Deelen" width="200" style="border-radius:50%; border: 6px solid #0077B5; box-shadow: 0px 0px 20px #0077B5;"/>
+    </a>
 
+  <h1>Hey, I'm Mathijs! <img src="https://media.giphy.com/media/mSmoothieSmoothiemLpbBw8/giphy.gif" width="40"> </h1>
   <p>
-    <a href="mailto:deelen.mathijs@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="YOUR_LINKEDIN_PROFILE_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="YOUR_YOUTUBE_CHANNEL_URL_HERE"><img src="https://img.shields.io/badge/My_Animations-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+    A <strong>Computer Science Whiz @ Stevens Institute of Technology</strong> with a heart for <strong>animation, a mind for code, and a drive to make a real impact.</strong>
+    <br>
+    My adventure started with 2D sketches, evolved into 3D worlds in Blender (yep, I'm that guy on <a href="YOUR_YOUTUBE_CHANNEL_URL_HERE" target="_blank">YouTube</a>!), and then BAM! 💥 I fell for coding in Unity, building games.
+    <br>
+    Now, I channel that creative spark into crafting <strong>meaningful software</strong> – especially with Python, JavaScript, and AI.
+    <br>
+    <em>(Psst... I once built an automation script that nuked 99% of a tedious manual data collection task. Efficiency is my middle name!)</em>
   </p>
 </div>
 
 ---
 
-### ⚡ What I'm Sparked By & Building Now
+### 🚀 My Current Playground: Ideas Taking Flight!
 
-I thrive on turning ideas into reality, especially if they make a positive impact.
+I'm all about building things that are fun, useful, and maybe even a little bit revolutionary.
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        🤖 <a href="[SELFVIEW_REPO_OR_DEMO_LINK]"><strong>SelfView</strong></a><br>
-        <small>AI-powered interview prep sim.<br>(React, TS, Python, TF, OpenAI)</small>
-      </td>
-      <td align="center" width="33%">
-        🎮 <a href="[CODECOBRA_REPO_OR_DEMO_LINK]"><strong>CodeCobra</strong></a><br>
-        <small>Gamified DS & Algo learning.<br>(React, JS Canvas, Firebase)</small>
-      </td>
-      <td align="center" width="33%">
-        🌳 <a href="[LINK_TO_ARBORTAG_CONCEPT_IF_ANY_OR_REMOVE_LINK]"><strong>Arbortag</strong> (My Big Idea!)</a><br>
-        <small>Scan trees, learn, connect with nature via your phone!</small>
-      </td>
-    </tr>
-  </table>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <div style="flex: 1; min-width: 300px; margin: 10px; padding: 15px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+    <h3 align="center">🤖 SelfView - AI Interview Coach</h3>
+    <p align="center"><em>Leveling up dev interview prep!</em></p>
+    <p>Building a platform for realistic interview simulations. Think coding workspaces, audio analysis, and soon, real-time AI feedback to help you nail that dream job. My animation roots help in designing an intuitive UX!</p>
+    <p align="center"><code>React</code> <code>TypeScript</code> <code>Python</code> <code>TensorFlow</code> <code>OpenAI API</code></p>
+    </div>
+  <div style="flex: 1; min-width: 300px; margin: 10px; padding: 15px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+    <h3 align="center">🎮 CodeCobra - Learn DS&A, The Fun Way!</h3>
+    <p align="center"><em>Who said learning can't be a game?</em></p>
+    <p>A gamified React.js app where you learn Data Structures & Algorithms by playing an interactive Snake game, complete with MCQs and leaderboards. Firebase handles the backend magic.</p>
+    <p align="center"><code>React.js</code> <code>JavaScript</code> <code>HTML Canvas</code> <code>Firebase</code></p>
+    </div>
+  <div style="flex: 1; min-width: 300px; margin: 10px; padding: 15px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+    <h3 align="center">🌳 Arbortag - My Vision for a Greener Tomorrow!</h3>
+    <p align="center"><em>Using tech to whisper the stories of trees.</em></p>
+    <p>This is my passion project brewing: a way to scan trees and instantly access rich information, replacing static plaques. Imagine using your phone to genuinely connect with nature! Always brainstorming this one.</p>
+    <p align="center"><code>Concept</code> <code>AR/Mobile Tech</code> <code>AI/CV</code> <code>Data Visualization</code></p>
+    </div>
 </div>
 
 ---
 
-### 🧰 My Go-To Creative Tools
+### 🛠️ My Tech Palette & Tools of Creation
+
+Here's what I use to bring ideas to life:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML"/>
-  <img src="https://img.shields.io/badge/Automation-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Automation"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  <br>
-  <details>
-    <summary>Show More Tools & Languages</summary>
-    <br>
-    <p align="center">
-      <code>TypeScript</code>&nbsp;&nbsp;<code>Node.js</code>&nbsp;&nbsp;<code>OpenAI API</code>&nbsp;&nbsp;<code>OpenCV</code>&nbsp;&nbsp;<code>Firebase</code>&nbsp;&nbsp;<code>Docker</code>&nbsp;&nbsp;<code>GCP</code>
-      <br>
-      <code>Java</code>&nbsp;&nbsp;<code>C++</code>&nbsp;&nbsp;<code>OCaml</code>&nbsp;&nbsp;<code>Git</code>&nbsp;&nbsp;<code>VS Code</code>
-      <br>
-      <code>Pandas</code>&nbsp;&nbsp;<code>NumPy</code>&nbsp;&nbsp;<code>Scikit-learn</code>&nbsp;&nbsp;<code>Flask</code>&nbsp;&nbsp;<code>Django</code>
-    </p>
-  </details>
+  ✨ <strong>Core Languages:</strong> Python, JavaScript, TypeScript, Java, C++, OCaml <br>
+  🔮 <strong>Frameworks & APIs:</strong> React.js, Node.js, TensorFlow, OpenAI API, OpenCV, Selenium, Flask, Django <br>
+  🎨 <strong>Creative & Dev Tools:</strong> Blender, Unity, Git, Firebase, Docker, VS Code, GCP, Expo <br>
+  📊 <strong>Data Sorcery:</strong> Pandas, NumPy, Matplotlib, Scikit-learn
+  <br><br>
+  <img src="https://img.shields.io/badge/Python- estrelas?style=for-the-badge&logo=python&logoColor=white&color=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript- Poderoso!style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React- Mágico!style=for-the-badge&logo=react&logoColor=61DAFB&color=20232A" alt="React"/>
+  <img src="https://img.shields.io/badge/AI/ML- Futuro!style=for-the-badge&logo=tensorflow&logoColor=white&color=FF6F00" alt="AI/ML"/>
+  <img src="https://img.shields.io/badge/Blender- Criativo!style=for-the-badge&logo=blender&logoColor=white&color=F5792A" alt="Blender"/>
 </p>
 
 ---
 
-### 🌱 Got a Cool Challenge or Micro-Project?
+### 🌱 Let's Collaborate on Something Meaningful!
 
-I love diving into interesting problems and bringing ideas to life, especially on a smaller scale where I can make a quick impact. If you've got something brewing in:
+Got a spark of an idea or a challenge that needs a creative coder's touch? I'm always excited to explore **short-term micro-projects** where I can dive in, make an impact, and build something cool. I especially love projects involving:
 
-* **Web Automation/Scraping** 🤖 | **JS/React Quick Fixes/Features** ✨ | **Small AI Prototypes** 💡
-* **Full-Stack Micro-Features** 🧩 | **Data Insights & Viz** 📊 | **Code Debugging/Optimization** 🧐
-* **Basic Computer Vision Tasks** 🖼️
+* **Smart Automation & Web Scraping:** Let's make those tedious tasks disappear!
+* **Engaging Web Experiences:** Quick JS/React enhancements, bug squashing, or bringing a small feature to life.
+* **AI Brainstorms & Prototypes:** From text summarizers to curious little bots.
+* **Adding that Missing Piece:** Small full-stack features to complete your puzzle.
+* **Untangling Data & Finding Stories:** Basic data analysis and visualization.
+* **Code Whisperer:** Debugging and optimizing existing codebases.
+* **Giving Sight to Software:** Simple computer vision tasks with OpenCV.
 
-...or just a wild idea you think I'd dig, let's chat! I'm all about practical solutions and responsive collaboration.
+I believe in clear communication, delivering functional solutions quickly, and bringing a fresh, energetic perspective. If you think my blend of creativity and technical skill could help, let's connect!
 
 ---
 
-### 📊 My GitHub Vitals
+### ✨ When I'm Not Coding...
+
+You can find me:
+* 🏄‍♂️ **Chasing Waves:** Surfing is my meditation – helps me clear my head and ride the flow.
+* 🛠️ **Building (the tangible kind!):** From chicken coops to treehouses, I love making things with my hands.
+* 🏀 Getting active with friends, usually playing some kind of sport.
+
+My current learning adventures are steered by Python, with a keen eye on **Cloud Computing, Machine Learning, and AI**. Always hungry for a new challenge!
+
+---
+
+### 📊 My GitHub Pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&rank_icon=github&count_private=true&include_all_commits=true&hide_border=true" alt="Mathijs's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&langs_count=8&hide_border=true" alt="Top Languages" width="48%"/>
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=merko&rank_icon=github&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000" alt="Mathijs's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=merko&langs_count=8&hide_border=true&bg_color=00000000" alt="Top Languages" width="48%"/>
+  <br/>
   </p>
 
 ---
 
 <div align="center">
-  <h3>🤙 Let's Connect!</h3>
+  <h2>📫 Let's Make Something Awesome Together!</h2>
   <p>
-    Excited by challenges, fueled by curiosity, and always up for a good conversation.
-    <br>
-    Reach out at <strong>deelen.mathijs@gmail.com</strong> or find me on [LinkedIn](YOUR_LINKEDIN_PROFILE_URL).
-    <br><br>
-    📍 Hoboken, NJ | Surfing waves & building dreams 🏄‍♂️🛠️
+    Whether it's about code, creativity, your Arbortag ideas, or the perfect wave – I'm all ears!
   </p>
-  <p><small>Thanks for visiting my corner of the internet!</small></p>
+  <p>
+    <a href="mailto:deelen.mathijs@gmail.com" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Drop_Me_An_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    &nbsp;&nbsp;
+    <a href="YOUR_LINKEDIN_PROFILE_URL" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    &nbsp;&nbsp;
+    <a href="YOUR_YOUTUBE_CHANNEL_URL_HERE" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/See_My_3D_Work!-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+    </a>
+  </p>
+  <p>📍 Hoboken, NJ – Always ready for the next creative adventure!</p>
 </div>
