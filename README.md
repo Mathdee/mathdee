@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[YOUR_SIGNATURE_BANNER_URL_HERE]" alt="Mathijs Deelen - From Animation to Impactful Code" width="100%"/>
+  <img src="https://github.com/Mathdee/mathdee/blob/main/Banner.png?raw=true" alt="Mathijs Deelen - From Animation to Impactful Code" width="100%"/>
   <br>
   <a href="[LINK_TO_YOUR_BEST_PROJECT_OR_PORTFOLIO_SITE]">
     <img src="[YOUR_PROFILE_PICTURE_URL_HERE]" alt="Mathijs Deelen" width="180" style="border-radius:50%; border: 6px solid #43B02A; box-shadow: 0px 0px 25px #43B02A;"/> 
