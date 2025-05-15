@@ -3,7 +3,7 @@
   <br>
   <a href="[LINK_TO_YOUR_BEST_PROJECT_OR_PORTFOLIO_SITE]">
     <img src="[YOUR_PROFILE_PICTURE_URL_HERE]" alt="Mathijs Deelen" width="180" style="border-radius:50%; border: 6px solid #43B02A; box-shadow: 0px 0px 25px #43B02A;"/> 
-    </a>
+  </a>
 
   <h1>Hey, I'm Mathijs! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7q/giphy.gif" width="35"></h1>
   <p>
@@ -31,20 +31,17 @@
 <table>
   <tr>
     <td width="33%" align="center">
-      <img src="[ICON_OR_SMALL_GIF_FOR_SELFVIEW]" alt="SelfView Icon" width="60"><br>
-      <strong>SelfView</strong><br>
+      🤖<br> <strong>SelfView</strong><br>
       <small>AI-powered interview practice.<br><code>React</code> <code>TS</code> <code>Python</code> <code>OpenAI</code></small><br>
-      </td>
+    </td>
     <td width="33%" align="center">
-      <img src="[ICON_OR_SMALL_GIF_FOR_CODECOBRA]" alt="CodeCobra Icon" width="60"><br>
-      <strong>CodeCobra</strong><br>
+      🎮<br> <strong>CodeCobra</strong><br>
       <small>Gamified DS&A learning.<br><code>React</code> <code>JS Canvas</code> <code>Firebase</code></small><br>
-      </td>
+    </td>
     <td width="33%" align="center">
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fgreens-tree-eyebrow-eyebrow-raise-i-dont-care-gif-14467282&psig=AOvVaw18Jr-w4zItJ9EY-WxYGK8Q&ust=1747364231486000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDz-Jm9pI0DFQAAAAAdAAAAABAL" alt="Arbortag Icon" width="60"><br>
-      <strong>Arbortag (Vision!)</strong><br>
+      🌳<br> <strong>Arbortag (Vision!)</strong><br>
       <small>Scan trees, connect with nature via phone. Let's make it happen!</small><br>
-      </td>
+    </td>
   </tr>
 </table>
 
@@ -98,7 +95,7 @@ I deliver practical solutions with quick turnarounds and clear communication. Le
   <img src="https://github-readme-stats.vercel.app/api?username=mathdee&show_icons=true&theme=transparent&rank_icon=github&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&text_color=0077B5&icon_color=0077B5&title_color=43B02A" alt="Mathijs's GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathdee&layout=compact&theme=transparent&langs_count=6&hide_border=true&bg_color=00000000&text_color=0077B5&icon_color=0077B5&title_color=43B02A" alt="Top Languages" width="48%"/>
   <br><br>
-  </p>
+</p>
 
 ---
 
@@ -116,8 +113,7 @@ I deliver practical solutions with quick turnarounds and clear communication. Le
       <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.youtube.com/@yabuli4886" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/My_3D_Art_&_Animations!-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+    <a href="https://www.youtube.com/@yabuli4886" style="text-decoration:none;"> <img src="https://img.shields.io/badge/My_3D_Art_&_Animations!-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
     </a>
   </p>
 </div>
