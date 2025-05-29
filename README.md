@@ -1,7 +1,7 @@
 <div align="center">
   </a>
 
-  <h1>Hey, I'm Mathijs! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7q/giphy.gif" width="35"></h1>
+  <h1>Hey, I'm Mathijs! </h1>
   <p>
     🚀 <strong>CS Student @ Stevens Tech</strong> | Animator ➡️ 3D Artist ➡️ Unity Dev ➡️ <strong>Impactful Coder!</strong>
     <br>
