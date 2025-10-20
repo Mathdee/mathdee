@@ -8,7 +8,7 @@ class AboutMe:
             "pronouns": "he/him"
         }
         self.current_focus = "Learning computer science and building small AI projects"
-        self.working_on = "Turning ideas and life experiences into meaningful projects"
+        self.working_on = "Another Project"
         self.learning = "Python, React, and how AI models work"
         self.goal = "Use my life experiences to make the world a little bit better"
         self.socials = {
