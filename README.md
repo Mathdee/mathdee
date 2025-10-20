@@ -1,6 +1,5 @@
+# 👋 Hi There,
 ```python
-# 👋 Hi, I'm Mathijs Deelen
-
 class AboutMe:
     def __init__(self):
         self.name = {
