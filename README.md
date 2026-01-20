@@ -24,5 +24,5 @@ if __name__ == "__main__":
 good?
 ```
 
-💭 *“HEHEHEHEHE”*
+💭 *“42”*
 
