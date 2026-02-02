@@ -12,7 +12,7 @@ class Student:
             "Performance Optimization"
         ]
         # Honest: Active learning, not "Expert"
-        self.currently = "Building a Raft KV Store from scratch & partaking in competitive programming"
+        self.currently = "Active learning and Building"
 
     def say_hi(self):
         print(f"Hi, I'm {self.name}. I like digging into how computers actually work.")
@@ -20,9 +20,7 @@ class Student:
 if __name__ == "__main__":
     me = Student()
     me.say_hi()
-
-good?
 ```
 
-💭 *“42”*
+*“”*
 
