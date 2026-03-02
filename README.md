@@ -11,7 +11,6 @@ class Student:
             "Distributed Consensus",
             "Performance Optimization"
         ]
-        # Honest: Active learning, not "Expert"
         self.currently = "Active learning and Building"
 
     def say_hi(self):
