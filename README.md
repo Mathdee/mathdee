@@ -10,11 +10,12 @@ class Student:
             "Systems Programming",
             "Distributed Consensus",
             "Performance Optimization"
+            "Everything Else That Touches Computers :)"
         ]
         self.currently = "Active learning and Building"
 
     def say_hi(self):
-        print(f"Hi, I'm {self.name}. I like digging into how computers actually work.")
+        print(f"Hi, I'm {self.name}. I am looking for a full-time opportunity")
 
 if __name__ == "__main__":
     me = Student()
